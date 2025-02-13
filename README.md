@@ -25,6 +25,7 @@ addon | version | maintainers | summary
 [mail_inline_css](mail_inline_css/) | 18.0.1.0.0 |  | Convert style tags in inline style in your mails
 [mail_layout_preview](mail_layout_preview/) | 18.0.1.0.0 |  | Preview email templates in the browser
 [mail_notification_clean_status_error](mail_notification_clean_status_error/) | 18.0.1.0.0 | [![sebalix](https://github.com/sebalix.png?size=30px)](https://github.com/sebalix) | Extend Odoo scheduled action to also delete notifications in error.
+[mail_notification_custom_subject](mail_notification_custom_subject/) | 18.0.1.0.0 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Apply a custom subject to mail notifications
 [mail_outbound_static](mail_outbound_static/) | 18.0.1.0.0 |  | Allows you to configure the from header for a mail server.
 [mail_restrict_follower_selection](mail_restrict_follower_selection/) | 18.0.1.0.0 |  | Define a domain from which followers can be selected
 [mail_tracking](mail_tracking/) | 18.0.1.0.0 |  | Email tracking system for all mails sent
